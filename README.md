@@ -12,4 +12,5 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 in the commit area
-
+in the staging area
+in the repository - not staged
