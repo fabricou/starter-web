@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 ## Deployement
 
 ## How to Contribute
+in the commit area
+
